@@ -44,3 +44,60 @@ body, html {
 .h11{
     font-family: sans-serif;
 }
+.bild1 {
+    height: 300px;
+    width: 330px;
+}
+.bild2 {
+    height: 300px;
+    width: 330px;
+}
+.bild3 {
+    height: 300px;
+    width: 330px;
+}
+.buttonweiter{
+    font-size: 50px;
+}
+.buttonweiter2{
+    font-size: 50px;
+    position: fixed;
+    top: 10px;
+    right: 100px;
+}
+.flexpayztext{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.RingIMG{
+    position:absolute;
+    top: 15%;
+    left: 10%;
+    height: 400px;
+    width: 500px;
+}
+.RingGrößenIMG{
+    position: absolute;
+    left: 65%;
+    height: 400px;
+    width: 500px;
+}
+.Bestellungringbild{
+    position: absolute;
+    left: 44%;
+    height: 500px;
+    width: 400px;
+}
+.Bestellunghilfe{
+    position: absolute;
+    left: 5%;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+.mailsendenring{
+    position: absolute;
+    left:20%;
+    top:110%;
+    font-family: sans-serif;
+    font-size: 22px;
+}
