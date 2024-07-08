@@ -63,41 +63,42 @@ body, html {
     font-size: 50px;
     position: fixed;
     top: 10px;
-    right: 100px;
+    right: 5px;
 }
 .flexpayztext{
     font-size: 30px;
     font-family: sans-serif;
 }
 .RingIMG{
-    position:absolute;
-    top: 15%;
-    left: 10%;
+    text-align: center;
+    top: 135px;
+    left: 700px;
     height: 400px;
     width: 500px;
 }
 .RingGrößenIMG{
     position: absolute;
-    left: 65%;
+    left: 1410px;
     height: 400px;
     width: 500px;
 }
 .Bestellungringbild{
     position: absolute;
-    left: 44%;
+    left: 1000px;
     height: 500px;
     width: 400px;
 }
 .Bestellunghilfe{
     position: absolute;
-    left: 5%;
+    top: 875px;
+    left: 90px;
     font-family: sans-serif;
     font-size: 22px;
 }
 .mailsendenring{
     position: absolute;
-    left:20%;
-    top:110%;
+    left:370px;
+    top:1100px;
     font-family: sans-serif;
     font-size: 22px;
 }
