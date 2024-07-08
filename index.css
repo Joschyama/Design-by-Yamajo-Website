@@ -71,36 +71,26 @@ body, html {
 }
 .RingIMG{
     text-align: center;
-    top: 135px;
-    left: 1000px;
     height: 400px;
     width: 500px;
 }
 .RingGrößenIMG{
-    position: relative;
-    top: -300px;
-    left: 1000px;
+    text-align: center;
     height: 400px;
     width: 500px;
 }
 .Bestellungringbild{
-    position: relative;
-    top: -200px;
-    left: 1000px;
+    text-align: center;
     height: 500px;
     width: 400px;
 }
 .Bestellunghilfe{
-    position: relative;
-    top: 100px;
-    left: 0px;
+    text-align: center;
     font-family: sans-serif;
-    font-size: 22px;
+    font-size: 30px;
 }
 .mailsendenring{
-    position: relative;
-    left:-435px;
-    top:-300px;
+    text-align: center;
     font-family: sans-serif;
-    font-size: 22px;
+    font-size: 30px;
 }
