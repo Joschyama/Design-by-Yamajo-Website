@@ -92,3 +92,26 @@ body, html {
     font-family: sans-serif;
     font-size: 30px;
 }
+.halbäulein {
+    text-align: center;
+    height: 300px;
+    width: 330px;
+}
+.shoptext {
+    text-align: center;
+    font-family: sans-serif;
+}
+.keramikkette{
+    width: 330px;
+    height: 300px;
+}
+.formtext {
+    font-size: 25px;
+}
+.halsbänderimg {
+    height: 200px;
+    width: auto;
+}
+.keramikkettenimg{
+    height: 300px;
+}
